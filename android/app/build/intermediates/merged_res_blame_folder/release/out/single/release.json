@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_symbol_bedroom.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_symbol_bedroom.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_screen.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_screen.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_symbol_livingroom.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_symbol_livingroom.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_symbol_kitchen.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_symbol_kitchen.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_symbol_bathroom.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_symbol_bathroom.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.phoneapp-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_background.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_background.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.phoneapp-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.phoneapp-merged_res-36:/drawable-mdpi_components_img_symbol_outdoor.png.flat",
+        "source": "com.phoneapp-react-31:/drawable-mdpi/components_img_symbol_outdoor.png"
+    }
+]

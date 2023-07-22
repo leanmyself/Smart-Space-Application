@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">695270760272-o5acro7kjrh93vb9r0jmi72hr9povta6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">695270760272</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJCoVLvUSRmA3K14y5WMcFPYL-SY-qZOQ</string>
+    <string name="google_app_id" translatable="false">1:695270760272:android:e412f8474084e22cf71655</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJCoVLvUSRmA3K14y5WMcFPYL-SY-qZOQ</string>
+    <string name="google_storage_bucket" translatable="false">smart-home-730f8.appspot.com</string>
+    <string name="project_id" translatable="false">smart-home-730f8</string>
+</resources>
